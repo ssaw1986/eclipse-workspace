@@ -17,7 +17,7 @@ public class aggregationMain {
 		
 		for(int i=0;i<noOfClass;i++)
 		{
-			System.out.println(cnp[i]);
+			System.out.println(cnp[i]);	
 		}
 	}
 

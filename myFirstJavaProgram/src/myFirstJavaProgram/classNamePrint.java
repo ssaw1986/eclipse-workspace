@@ -9,6 +9,6 @@ public class classNamePrint {
 	
 	public String toString ()
 	{
-		return this.name;
+		return "The name of the class is: " + this.name;
 	}
 }
